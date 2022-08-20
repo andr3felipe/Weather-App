@@ -8,10 +8,12 @@
 
 
 # HOW TO USE
-<p>Write location and press ENTER</p>
+<p>WRITE LOCATION AND PRESS ENTER.</p>
+<br>
+<br>
 
 
 # GO TO THE WEBSITE
-<a href="https://admirable-syrniki-76fc6e.netlify.app/">Weather App</a>
+<a href="https://admirable-syrniki-76fc6e.netlify.app/">WEATHER APP</a>
 
 
