@@ -1,13 +1,13 @@
 # Weather-App
 * [GIF](#GIF)
 * [GO TO THE WEBSITE](#GO-TO-THE-WEBSITE)
-* [HOW TO USE](#HOW TO USE)
+* [HOW TO USE](#HOW-TO-USE)
 
 # GIF
 <img src="src/assets/weather-app.gif"/>
 
 
-#HOW TO USE
+# HOW TO USE
 <p>Write location and press ENTER</p>
 
 
