@@ -14,6 +14,6 @@
 
 
 # GO TO THE WEBSITE
-<a href="https://admirable-syrniki-76fc6e.netlify.app/">WEATHER APP</a>
+<a href="https://papaya-baklava-0561c1.netlify.app/">WEATHER APP</a>
 
 
